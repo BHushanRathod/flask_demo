@@ -1,4 +1,4 @@
-0: 	 Merry is boiling matrass while Dog is meowing for coffee. 
+0: 	 Merry is boiling matrass while Dog is meowing for coffee.
 1: 	 Jeniffer is kissing tea while Dog is meowing for kettle. 
 2: 	 Frodo is barking at feather while Sam is petting feather. 
 3: 	 Uncle Sam is boiling milk while Sam is hugging tea. 
